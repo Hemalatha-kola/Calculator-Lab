@@ -1,0 +1,38 @@
+.button-wrapper {
+    background-color: #888;
+    color: #f7fff8;
+  }
+  
+  .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    flex: 1;
+    outline: 1px solid #888;
+    height: 3.5em;
+  }
+  
+  .operator {
+    background-color:orange;
+    color: #fff;
+  }
+  
+  .equal-btn {
+    background-color: #929000;
+    color: #000000;
+  }
+  
+  .input {
+    height: 3em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.6em;
+    background-color: #6d6d6d;
+    color: #fafafa;
+    padding: 0.5em;
+    outline: 1px solid #888888;
+  }
